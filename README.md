@@ -1,2 +1,3 @@
 # auto_test_course-stepik-
-homework
+ссылка на курс 
+https://stepik.org/course/575
